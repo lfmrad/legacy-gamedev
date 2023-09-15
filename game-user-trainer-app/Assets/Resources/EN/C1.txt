@@ -1,0 +1,21 @@
+﻿The on-line report <i>(accesible from the '<color=#DFDFDFFF>N</color><color=#019FFDFF>ubeprint</color>' button)</i> shows the scorecard with some key indicators. Figures are average of all your contracts. Verify any undesired deviation… and take a decision.
+--
+The % of "consumable underutilized" (% of waste in each cartridge) is high.
+<i>You decide to investigate the reasons because this has a direct impact on your costs.</i>
+--
+The amount of "underused" devices is very high.
+<i>You reduce the number of printers by retiring those with the lowest activity. This will increase the usage rate.</i>
+--
+The trend of printing (“instant printing activity”) is showing a slowdown.
+<i>You call your boss and tell him that the MPS business is dead, and resign to your job.</i>
+--
+The usage of color devices is good (“color management”).
+<i>You propose your customers to add some more color printers in their contract.</i>
+--
+You have realized that your customers are wasting toner when they replace the cartridges. This has a direct impact on your costs medium term, so you have decided to investigate further in order to push down your costs of supplies.
+--
+You have identified that your customers are printing far below the expected recommended volume in most printers and copiers. Your objective is to make the business profitable. So one way is to increase the number of pages printed per device. You have decided to reduce the number of devices at your customers. But what are you going to do with those devices that you have retired? Their cost is still there for you, even though you’re not using them anymore. Short term your contract performance will go up. But your Profit and Loss will remain unchanged.
+--
+You have resigned from your position influenced by a short term trend indicator. Good luck in your next job!
+--
+Offering your customers color printers is a good decision if your objective was to grow your business. But your first objective is to make it profitable. This decision is not going to help you.

@@ -1,0 +1,27 @@
+﻿<size=25><b>Situación actual</b></size>
+
+<size=19>Acaba Vd. de aceptar un trabajo como responsable de MPS de una compañía que cuenta con 2.000 impresoras y copiadoras en sus contratos.
+
+Su jefe, el propietario de la empresa, lleva invertidos en el negocio MPS no menos de 1,5 millones desde hace 2 años (incluyendo los salarios de 6 empleados). Todavía no ha visto ningún beneficio. Así que le reta a demostrar que MPS puede ser rentable.
+
+Le ha dado 6 meses de plazo; de lo contrario venderá los contratos y abandonará el negocio de MPS.
+</size>
+--
+En su primer día en la empresa, convoca una reunión con sus 5 compañeros. Les pide información:
+
+<size=20><b>· ¿Cuáles son nuestros contratos más rentables?
+· ¿Qué % de cartucho se desperdicia?
+· ¿Enviamos con mucha antelación? ¿Con cuántos días?</b></size>
+
+Su equipo está atónito. No tienen esa información. Utilizan una  herramienta de monitorización para los contadores de facturación. Si siquiera utilizan las alertas de toner, ya que han comprobado que se duplican los pedidos.
+
+Vd necesita información para tomar decisiones. Recurre entonces a su viejo amigo Juan, experto en MPS, quien le recomienda que instale Nubeprint. 
+--
+<size=19>Hoy es 1 de Marzo de 2016. Han transcurrido 2 meses desde que instaló Nubeprint.
+
+Reúne a su equipo y les hace las mismas preguntas. Vienen preparados con <i>informes</i> "on-line".
+ 
+Su objetivo es utilizar la información de sus contratos para tomar decisiones y conseguir hacerlos rentables.
+
+Son un total de 6 desafíos. Cada decisión tendrá un efecto a medio plazo en la rentabilidad, y un impacto medioambiental.
+</size>

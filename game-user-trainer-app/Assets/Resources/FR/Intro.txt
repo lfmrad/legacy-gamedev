@@ -1,0 +1,27 @@
+﻿<size=25><b>Situation</b></size>
+
+<size=19>Vous avez juste été embauché comme directeur de MPS et vous devez gérer 2.000 imprimantes et copieuses.
+
+Votre chef, le PDG de la compagnie, a investi 1,5 million d'Euros pendant deux ans. Ceci inclut les salaires de vos 5 collègues. Il se plaint de ne pas avoir obtenu aucun bénéfice et vous défie de démontrer la rentabilité de cette activité.
+
+Il vous concède 6 mois. Au bout de cette période il abandonnera l'activité MPS.
+</size>
+--
+Au premier jour vous rencontrez vos 5 collègues, et vous leur posez les questions suivantes:
+
+<size=20><b>· Quels sont les contrats les plus rentables?
+· Quel est le % de cartouches qui se perd?
+· Combien de jours en avant on délivre?</b></size>
+
+Vos collègues n'arrivent pas à comprendre vos questions. Ils n'ont jamais vu cette information. Ils utilisent un système pour récupérer le compteur de pages et facturer. Mais ils n'utilisent même pas les alertes du système parce qu'elles répètent.
+
+Vous passez un coup de fil à votre amie Isabelle qui vous recommande d'utiliser Nubeprint, étant la seule solution MPS qui gère automatiquement les contrats et contrôle leur performance.
+--
+<size=19>Aujourd'hui est le 1 Mars. Ça fait 2 mois depuis l'installation de Nubeprint comme système.
+
+Vous rencontrez votre équipe et vous leur posez les mêmes questions. Ils vous montrent <i>rapports en ligne</i>.
+ 
+Votre objectif est d'utiliser toute information disponible pour avoir des contrats MPS rentables.
+
+Vous devez affronter 6 Challenges et prendre une décision à chaque reprise. Chaque décision aura un effet sur la rentabilité de votre activité MPS.
+</size>

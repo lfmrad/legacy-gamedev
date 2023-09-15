@@ -1,0 +1,22 @@
+﻿Le rapport en ligne montre le niveau de chaque cartouche lorsque remplacée, la date de l'expédition et du remplacement.
+Décidez.
+--
+Vous ne vous faites pas de souci du gaspillage: votre marge est suffisante.
+<i>Vous ne faites rien.</i>
+--
+Le % de gaspillage est espéré et parmi vos expectatives.
+<i>Vous ne faites rien.</i>
+--
+Vous faites des calculs: si le client remplace à 10% du niveau, vous perdez 1/3 de votre marge de 30%.
+<i>Vous établissez un seuil d'alerte en utilisant "jours que restent".</i>
+--
+Vous faites des calculs: si le client remplace à 10% du niveau, vous perdez 1/3 de votre marge de 30%.
+<i>Vous prenez contact avec chacun des clients pour les convaincre de ne pas installer la cartouche avant qu'elle ne soit vide.</i>
+--
+La marge calculée dans le contrat est une marge désirée. Pendant la vie du contrat ce sera le nombre de pages imprimées avec chaque cartouche délivrée ce qui va décider vos couts réels et donc la vraie marge. Ça arrive de dupliquer les expéditions, de remplacer les cartouches à 20%, etc. Vous devez donc vous rassurer que chaque cartouche imprime au moins la quantité de pages que le fabricant indique. Votre décision aura donc un impact négatif sur la marge des contrats.
+--
+La marge calculée dans le contrat est une marge désirée. Pendant la vie du contrat ce sera le nombre de pages imprimées avec chaque cartouche délivrée ce qui va décider vos couts réels et donc la vraie marge. Ça arrive de dupliquer les expéditions, de remplacer les cartouches à 20%, etc. Vous devez donc vous rassurer que chaque cartouche imprime au moins la quantité de pages que le fabricant indique. Votre décision aura donc un impact négatif sur la marge des contrats.
+--
+Vous avez remarqué que les cartouches sont remplacées trop tôt, ce qui fait qu'il y a un gaspillage de toner important. Donc la meilleure façon de réduire ce gaspillage est de faire l'expédition des cartouches au jour le plus proche possible du moment où il s'épuisera: on utilisera un seuil d'alerte de "jours que restent" et non pas "% que reste". Votre décision a un effet positif sur la marge de vos contrats.
+--
+Vous avez remarqué que les cartouches sont remplacées trop tôt, ce qui fait qu'il y a un gaspillage de toner important. Vous avez décidé d'éduquer le client. Ceci est une tâche importante qui va occuper pas mal de vos ressources. Mais nul n'empêche que ça va continuer, puisque le client continue à recevoir les cartouches avec des semaines et même des mois en avant. Votre décision aura un impact limité sur la marge de vos contrats.

@@ -1,0 +1,21 @@
+﻿Acceda al informe pulsando sobre el botón '<color=#DFDFDFFF>N</color><color=#019FFDFF>ubeprint</color>'. Muestra indicadores cuyos valores son el promedio de todos sus contratos. Compruebe si hay alguna desviación no deseada ... y tome una decisión.
+--
+El % de "consumible infrautilizado" (desperdicio de cada cartucho) es alto.
+<i>Decide investigar las razones ya que esto tiene un impacto directo en sus gastos.</i>
+--
+La cantidad de dispositivos "infrautilizados" es muy elevada.
+<i>Reduce el número de impresoras, retirando aquellas con menos actividad. Esta medida incrementará el uso de las restantes.</i>
+--
+La tendencia a imprimir ("actividad de impresión instantánea") indica desaceleración.
+<i>Llama a su jefe: le dice que el negocio de MPS está "muerto" y presenta su dimisión.</i>
+--
+El ratio de uso de máquinas a color es bueno (“Gestión del color”).
+<i>Propone a sus clientes añadir nuevas máquinas en color a sus contratos.</i>
+--
+Ha observado que sus clientes desperdician bastante tóner cuando reemplazan los cartuchos. Dado el impacto económico que esto tiene en sus costes, Vd ha decidido investigar más a fondo con el fin de reducir los costes de los suministros.
+--
+Ha observado que sus clientes imprimen muy por debajo del volumen recomendado en la mayoría de impresoras y copiadoras. Su objetivo es hacer que el negocio sea rentable. Así que una manera es incrementar el número de páginas impresas por cada dispositivo, por lo que toma la decisión de reducir el número de impresoras. Pero, ¿qué va a hacer con esos dispositivos que se han retirado? Ya las tiene compradas por lo que su coste permanecerá aunque ya no se utilicen. Con esta decisión su cuenta de resultados no mejora.
+--
+Ha presentado la dimisión asustado por lo un indicador de tendencia a corto. ¡Buena suerte en su próximo trabajo!
+--
+Su estrategia es ofrecer más impresoras de color a sus clientes. Esta decisión podría incrementar el número de copias que Vd. facture, pero no ayuda a resolver su problema: la rentabilidad de su negocio MPS.

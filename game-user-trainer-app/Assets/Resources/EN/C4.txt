@@ -1,0 +1,23 @@
+﻿Some customers of yours keep cartridges on stock. This on-line report shows the level of cartridges when replaced.
+Take a decision.
+--
+Your customers are using the spare cartridges with no control at all.
+<i>You decide to eliminate the stock at the customer.</i>
+--
+Your customers are using the spare cartridges with no control at all.
+<i>Together with your customer, you establish a manual process to prevent wrong utilization of the spare cartridges.</i>
+--
+Your customers are using the spare cartridges with no control at all.
+<i>You do not care as the stock is pre-paid by the customer.</i>
+--
+Your customers are using the spare cartridges with no control at all.
+You quickly foresee the multiple consequences: stock underage, a negative ROI.
+<i>You put in place automated controls for the usage of the local stock.</i>
+--
+You have decided to eliminate the stock of spare cartridges you had at your customer as a way to avoid the waste caused by their un-controlled installation. In most customers you don’t need to keep a stock there. But still in some it may be useful to reduce the shipping costs, or to address abnormal consumptions. Your decision has a positive short term impact on the margin, but still you could do better.
+--
+You have decided to establish a manual control of the usage of the cartridges you have on stock at your customers. This is simply unrealistic unless you have someone of your organization at each customer. Your decision has a positive short term impact on the margin, but still you could do better.
+--
+You do not care that the customer is using the spare cartridges in “open bar” mode because you billed the customer for them. Soon there will be a stock underage that your customer will ask you to justify. This issue is therefore also yours and you may want to work on a solution. Your decision has no impact on your margin. Of course, ignoring the problem is not at all friendly with the environment.
+--
+You realized that having a stock of cartridges at the customer is risky, though sometimes necessary. But there must be a control. You have in place an auto-fulfillment system that you can also use to manage stocks at the customer. This will not only set limits to your customers using the spare cartridges with no control, it will facilitate shipping multiple units at a glance, and not one by one. You activate Nubeprint Local Stock Management to control local stocks. Your decision has a positive impact on your margins short term. It does also have a very positive environmental impact in terms of footprint reduction.

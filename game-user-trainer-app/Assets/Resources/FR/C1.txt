@@ -1,0 +1,21 @@
+﻿Le rapport en ligne <i>(poussez sur le bouton '<color=#DFDFDFFF>N</color><color=#019FFDFF>ubeprint</color>')</i> montre quelques indicateurs. Vérifiez-s'il y a des déviations vis-à-vis des objectifs que vous désiriez. Décidez.
+--
+Le % d' "encre restante" (gaspillage moyen dans chaque cartouche) est élevé.
+<i>Ceci a un impact direct sur vos couts et donc vous décidez d'investiguer les raisons.</i>
+--
+Le nombre de machines "sous-utilisées" est important.
+<i>Vous décidez de retirer les machines ayant la moindre activité. Vous essayez de croitre le taux d'utilisation.</i>
+--
+La tendance d'impression  ("Activité en Cours") montre une réduction importante.
+<i>You rencontrez votre PDG pour lui dire que MPS est mort, et vous démissionnez.</i>
+--
+Le taux "d'Utilisation de la couleur" est haut.
+<i>Vous proposez à vos clients d'ajouter des imprimantes couleur dans leur contrat.</i>
+--
+Vous vous êtes aperçu que vos clients gaspillent les cartouches. Étant donné que ceci a un impact direct sur vos couts à court terme, vous avez décidé de l'analyser pour essayer de réduire les couts d'achat des consommables.
+--
+Vous vous êtes aperçu que vos clients impriment moins que le volume recommandé pour ces modèles d'imprimantes. Votre objectif étant de rendre l'activité MPS rentable, vous avez pensé qu'un moyen est d'augmenter le taux d'utilisation pour chaque machine. Vous avez donc décidé de réduire le nombre de machines. Le taux d'utilisation va vraisemblablement augmenter, et la performance de chaque contrat va s'améliorer. Mais encore vous devrez penser à quoi faire avez les imprimantes retirées: leur cout est encore dans votre compte de résultats. Votre marge ne va pas s'améliorer.
+--
+Vous avez démissionné à cause d'utiliser une information insuffisante: l'activité en cours. Bonne chance dans votre prochain poste de travail!
+--
+Offrir à vos clients d'ajouter des imprimantes couleurs pourrait être une bonne décision si votre objectif était de faire croitre le business. Mais votre premier objective étant d'améliorer la marge, cette décision ne va pas vous aider.

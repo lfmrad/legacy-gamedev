@@ -1,0 +1,22 @@
+﻿Este informe on-line muestra el nivel de cada cartucho en el momentode su sustitución, su fecha de envío y de sustitución.
+Tome una decisión.
+--
+Su cliente desperdicia toner con cada cambio pero no le importa: su margen es saludable.
+<i>No hace nada.</i>
+--
+El % de desperdicio se encuentra entre sus espectativas.
+<i>No hace nada.</i>
+--
+Hace unos cálculos rápidos: si su cliente sustituye al 10%, Vd. pierde 1/3 de su 30% de margen.
+<i>Cambia la configuración de las alertas y fija un umbral basado en "Días restantes".</i>
+--
+Hace unos cálculos rápidos: si su cliente sustituye al 10%, Vd. pierde 1/3 de su 30% de margen.
+<i>Organiza una campaña telefónica masiva para concienciar a todos sus clientes de la importancia de sustituir el cartucho sólo cuando esté vacío, y nunca antes.</i>
+--
+El margen que Vd. utiliza cuando oferta su contrato es el margen deseado. Éste se ve alterado posteriormente cuando un cartucho imprime menos páginas de las previstas, o duplica la entrega de un cartucho. Su gestión de los contratos debe ir encaminada a asegurar que cada cartucho que Vd compra imprime al menos la cantidad de páginas que le indica el fabricante. Vd. ha observado que su cliente desperdicia los cartuchos que le envía y ha decidido no hacer nada. Su margen se está viendo alterado seriamente.
+--
+El margen que Vd. utiliza cuando oferta su contrato es el margen deseado. Éste se ve alterado posteriormente cuando un cartucho imprime menos páginas de las previstas, o duplica la entrega de un cartucho. Su gestión de los contratos debe ir encaminada a asegurar que cada cartucho que Vd compra imprime al menos la cantidad de páginas que le indica el fabricante. Vd. ha observado que su cliente desperdicia los cartuchos que le envía y ha decidido no hacer nada. Su margen se está viendo alterado seriamente, y la huella de carbón es innecesariamente alta.
+--
+Vd. ha observado que sus clientes desperdician el cartucho reemplazándolo antes de tiempo. La forma más fácil y rápida de evitarlo es enviando el cartucho en el momento preciso: el más cercano a que el cartucho esté vacío. Así pues, cambia la configuración de las alertas para activar las notificaciones de envío en base a los "días restantes", en lugar de "% restante". Su decisión tiene un impacto positivo a corto plazo sobre su margen.
+--
+Ha observado que sus clientes desperdician el cartucho reemplazándolo antes de tiempo. Opta por influir sobre su comportamiento educándoles en la importancia de no sustituir antes de estar agotados. Esta es una inmensa tarea a la que debe dedicar todos los recursos disponibles. Lamentablemente, después de 3 a 4 semanas un alto % de usuarios se habrá olvidado. Su decisión tendrá un impacto positivo en su margen limitado.

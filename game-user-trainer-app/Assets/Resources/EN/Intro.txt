@@ -1,0 +1,27 @@
+﻿<size=25><b>The situation</b></size>
+
+<size=19>You have just been enrolled as the MPS Manager of a company that has 2,000 printers and copiers in contracts.
+
+Your boss, the owner of the company, has invested no less than 1.5 million in total to create this business 2 years ago (including the wages of 6 employees). He has seen no return on investment so far. So he challenges you to prove that MPS can be profitable.
+
+He has given you 6 months; else he will sell the contracts and abandon the MPS business.
+</size>
+--
+On your first day in the company you set up a meeting with your 5 team members. You ask them the following questions:
+
+<size=20><b>· What are our most profitable contracts?
+· What % of cartridges do get lost?
+· How much time we ship in advance?</b></size>
+
+Your team gives you a blank stare. They don’t have such information. They use a monitoring tool to collect the counters to bill. But they do not use the toner alerts from that tool because it constantly duplicates them.
+
+You then call your old friend Paul who recommends you to acquire Nubeprint:  the only MPS tool that manages the performance of MPS contracts automatically. 
+--
+<size=19>Today is 1st March 2016, 2 months since you installed Nubeprint.
+
+You meet again your team and ask the same questions. They now come with on-line <i>reports</i>.
+ 
+Your objective is to use the information available to take decisions to make your MPS contracts profitable. 
+
+You have a limited time to analyze each situation and take one decision. Each decision has medium term effect on profit.
+</size>

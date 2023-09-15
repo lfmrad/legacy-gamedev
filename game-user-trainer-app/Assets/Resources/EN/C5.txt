@@ -1,0 +1,22 @@
+﻿The on-line report shows those cartridges shipped but not jet installed.
+“Remain Days” displays the number of days before the cartridge is empty. Take a decision.
+--
+The number of remaining days is overall correct.
+<i>You congratulate your employees.</i>
+--
+The lowest the number of remaining days is, the best is for your business.
+<i>You set up the cartridges alerts threshold to use “days remaining”.</i>
+--
+The lowest the number of remaining days is, the best is for your business.
+<i>You set up the cartridges alerts threshold in a % lower than 10%.</i>
+--
+In some printers the level % is very low and you worry about printers stopping.
+<i>You increase the level % by 5 points.</i>
+--
+You see no problem on shipping too much in advance. Keep in mind that the risk of having the cartridges installed too early and the risk for a cartridges to get lost multiplies by 2 each week in excess of 15 days. Your decision will have a negative impact on your margins short term.
+--
+You have decided to address the issue of toner wasted by proactively shipping just when the cartridge is about to be empty, independently of the %; by triggering shipments based on “days remaining”, you are minimizing the amount of waste should the user install the new one as soon as he receives it. At the same time, the risk of the cartridge getting lost almost vanishes. Your decision will save you plenty of calls related to lost cartridges. You'll also see a positive short term impact on your margin.
+--
+You have decided to address this issue by modifying the remaining level %. Based on the fact that each type of cartridge behaves different in each individual printer and over time, if you do have 2000 devices you must be calculating what the appropriate level % is for at least 8000 types of cartridges! And knowing that the printer patterns do change, you have to do this exercise several times a year. It is simply not possible with 5 people in your department. Your decision may have a very limited positive on your margin.
+--
+You have decided not to take any action to prevent shipping too early in advance; you have indeed decided to ship even earlier. You will see more toner wasted from this moment on, and plenty of calls from your customers that claim they have lost their cartridge. Your decision has a negative impact on your margin and will stress your organisation with unnecessary inboud calls.

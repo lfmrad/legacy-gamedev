@@ -1,0 +1,71 @@
+﻿Challenge
+--
+I M A G E
+--
+HIDE IMG
+--
+M E N U
+--
+SORTIE
+--
+Challenge Suivant
+--
+Score
+--
+Obtenir Feedback
+--
+SAUTER
+--
+Page Suivante
+--
+Feedback
+--
+I n t r o d u c t i o n
+--
+Nubeprint
+--
+<size=19>Commencer Challenges</size>
+--
+Efficacité Financière
+--
+Bonus bonne gestion
+--
+Empreinte Carbone
+--
+accru/e
+--
+diminué/e
+--
+n'a pas changé
+--
+by
+--
+<size=16>REDÉMARRER</size>
+--
+Score Final
+--
+<size=30>Votre Score final est</size>
+--
+<size=30>d'un total de</size>
+--
+Score Efficacité Financière:
+--
+Total bonus Bonne Gestion:
+--
+Total effet sur l'empreinte Carbonne:
+--
+<size=22>Dernière Score</size>:
+--
+<size=22>Meilleure Score</size>:
+--
+Voir Score
+--
+Cette décision a changé votre:
+--
+Cette décision n'a pas changé votre score
+--
+Nubeprint Productions
+--
+présente
+--
+<size=40>Défiez vos connaissances de MPS</size>

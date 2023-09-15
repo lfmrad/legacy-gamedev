@@ -1,0 +1,23 @@
+﻿Quelques clients gardent des cartouches en stock. Ce rapport en ligne montre le niveau des cartouches lorsque remplacées par ceux en stock.
+Décidez.
+--
+Vos clients utilisent les cartouches en stock sans aucun contrôle.
+<i>Vous décidez d'éliminer le stock chez les clients.</i>
+--
+Vos clients utilisent les cartouches en stock sans aucun contrôle.
+<i>Vous accordez avec vos clients d'établir un procès manuel de contrôle pour éviter le gaspillage des cartouches en stock.</i>
+--
+Vos clients utilisent les cartouches en stock sans aucun contrôle.
+<i>Vous ne vous faites pas de souci puisque le stock a été prépayé par le client.</i>
+--
+Vos clients utilisent les cartouches en stock sans aucun contrôle.
+Vous vous rendez compte des conséquences: rupture de stock, un ROI négatif.
+<i>Vous implémentez un contrôle automatique pour l'utilisation du stock chez les clients.</i>
+--
+Vous avez décidé d'éliminer le stock chez le client pour éviter le gaspillage lors de l'installation sans contrôle. Mais dans un certain nombre de clients vous êtes obligés de laisser quelques cartouches. En plus, parfois un stock local permet de réduire les couts de livraison en faisant l'expédition de plusieurs cartouches en même temps. Votre décision est positive pour la marge des contrats, mais il existe une option meilleure.
+--
+Vous avez décidé de limiter le gaspillage des cartouches en stock avec un contrôle manuel chez les clients. Dans la vie réelle ceci n'est pas vraisemblable sauf que vous ayez une personne de votre organisation chez chaque client. Votre décision a un effet positif sur la marge, mais il y a des options meilleures.
+--
+Vous n'avez aucun souci à ce que le client utilise les cartouches en stock sans aucun contrôle, puisque vous les avez déjà facturés. Bientôt, il n'y aura plus de cartouches et le client vous demandera de justifier. Ce problème est aussi le vôtre et vous devez proposer une solution. Votre décision n'a pas d'effet sur la marge, mais c'est qu'en même pas respectueux avec l'environnement.
+--
+Vous avez conclu qu'avoir un stock de cartouches chez le client est un risque, mais parfois nécessaire. Puisque vous avez déjà en place un système de livraison automatique, vous pouvez aussi l'utiliser pour gérer les stocks chez les clients. Le système de gestion de Stock de Nubeprint contrôle l'utilisation des cartouches en stock, et son réapprovisionnement de façon tout à fait automatique. Votre décision d'utiliser cette fonctionnalité a un effet positif dans la marge de vos contrats. Il a aussi une forte influence de réduction de l'empreinte carbone.

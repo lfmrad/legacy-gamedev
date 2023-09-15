@@ -1,0 +1,22 @@
+﻿The on-line report shows the portfolio of device models based on the number of units. Your resources are limited.
+Decide your strategy to analyze your portfolio. Take a decision.
+--
+Model HP Officejet Pro X576 is your key model.
+<i>You focus your resources on analyzing the performance of contracts that run this model (volume, profit, cartridge performance…).</i>
+--
+Model HP Officejet Pro X576 is your key model. But you want to verify if this is also the device model that drives your business (that prints the most).
+<i>You then filter your report based on the amount of pages printed.</i>
+--
+You only have 2000 devices.
+<i>You include all models in your analysis from the very beginning.</i>
+--
+This graph cake is irrelevant.
+<i>You do your analysis based on the size of each customer.</i>
+--
+You have limited resources and time constraints. So you have decided to focus on the most popular device model of your portfolio. But “most popular” does not imply that it is the one that prints the most. Your business is driven by the number of copies printed. Your priority is profitability, so you must know which models prints the most and ensure that each copy they print is profitable. No short term impact in margin. Your stragegic decision may show up erroneous.
+--
+You have limited resources and time constraints. So you must set priorities. Your company is currently managing 72 different printer models. 20% of them print 80% of the pages you bill. You have decided to focus effort towards profitability on the 20% of models that drive your revenues. Latter on you know you’ll find time and resources to make the other 80% of printer models profitable too. No short term impact in margin. Excellent strategic decision.
+--
+You have limited resources and time constraints. It would be wise to set priorities. Instead your decision is to include all 72 models and all 2,000 devices in your initial analysis. You’ll soon realize of the large variety of scenarios you’ll find that impact the profit of your business (cartridges getting lost, or replaced too early, or simply not performing as expected). It will take you months to clear all. And unfortunately any positive impact takes time to show up as a margin increase. It will probably be too late for you: your boss would have closed your business by then. No short term impact in margin. Your stragegic decision may show up erroneous.
+--
+You have limited resources and time constraints. So you must set priorities. Your approach has been to focus on customers instead of device models. In a well-structured MPS business, the profitability is 90% dependable on the device, and 10% on the customer. Though your sales organization is organized per customer, the back-office contract management should manage portfolio, except for macro contracts (larger than 1000 units). In these cases you will perform both horizontal (per customer) and vertical analysis (per model). No short term impact in margin. Your stragegic decision may show up erroneous.

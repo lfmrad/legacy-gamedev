@@ -1,0 +1,4 @@
+﻿El filtro aplicado reduce el número de modelos a 5. Estos son los que más imprimen.
+Decide centrar su análisis en el rendimiento de estos modelos.
+--
+Continuar

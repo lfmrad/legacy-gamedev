@@ -1,0 +1,22 @@
+﻿El informe on-line muestra los cartuchos enviados pero no instalados.
+"Días Restantes" indica el número de días antes de que el cartucho se quede vacío. Tome una decisión.
+--
+El número de "días restantes" es en general correcto.
+<i>Felicita a sus empleados.</i>
+--
+Cuanto más bajo sea el número de "días restantes", mejor es para su negocio.
+<i>Configura los umbrales de alertas de cartuchos para usar "días restantes".</i>
+--
+Cuanto más bajo sea el número de "días restantes", mejor es para su negocio.
+<i>Configura los umbrales de alertas de cartuchos y establece un nivel inferior al 10%.<i>
+--
+En algunas impresoras el % de nivel es bajo y le preocupa que algunas se queden paradas.
+<i>Aumenta el % de nivel del umbral de alerta en 5 puntos.</i>
+--
+Vd. no ha visto como un problema el envío de los cartuchos con mucha antelación. Tenga en cuenta que el riesgo de que un cartucho se pierda o se desperdicie se multiplica por 2 por cada semana de antelación en el envío. Su decisión tiene un impacto negativo en sus márgenes a corto plazo.
+--
+Vd. ha decidido abordar la cuestión de tóner desperdiciado acercando la fecha del envío al momento en que se agotará el cartucho, mediante la utilización de alertas con umbrales efijados en función de los "días restantes". Con ello consigue reducir el número de cartuchos extraviados, las reclamaciones de los clientes, y también la cantidad de desperdicios ocasionada por instalar el cartucho antes de tiempo.  Pronto percibirá un impacto positivo sobre su margen. Su decisión es respuetuosa con el medioambiente.
+--
+Ha decidido disminuir la antelación excesiva con la que envía los cartuchos reduciendo el % de nivel del umbral de las alertas. Teniendo en cuenta que gestiona 2000 impresoras, y que cada tipo de cartucho evoluciona de forma diferente, deberá revisar los umbrales en 8.000 ocasiones para que cada cartucho se envíe en el momento adecuado. Aún así, dado que las pautas de impresión varían a lo largo del tiempo, deberá repetir el ejercicio cada 2 o 3 meses. Esto, con 5 personas en su equipo, es impensable.  Su decisión tendrá un efecto positivo muy limitado en su margen y en el tiempo.
+--
+Vd. no ha percibido ningún problema en la antelación con la que envía los cartuchos. Por el contrario, ha decidido enviar con más antelación. Como consecuencia, en adelante verá que sus clientes desperdician más tóner, se pierden más cartuchos y recibirá más llamadas reclamando un cartucho supuestamente no recibido. Su decisión tiene un impacto negativo en su margen.

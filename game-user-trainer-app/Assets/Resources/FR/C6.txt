@@ -1,0 +1,21 @@
+﻿Le rapport en ligne montre le bénéfice ou perte et la couverture réelle de chaque imprimante. La couverture espérée est 5% pour pages noirs et 20% pour couleurs. Décidez.
+--
+La raison des pertes est la haute couverture de l'impression.
+<i>Vous activez la clause dans le contrat qui vous permet d'augmenter le prix par page.</i>
+--
+Perte et haute couverture sont reliées. Mais vous vous rappelez que le remplacement des cartouches n'est pas bien géré et il y a pas mal de gaspillage.
+<i>Vous priorisez la correction de l'inefficacité lors de l'installation.</i>
+--
+Perte et haute couverture n'ont aucune relation. La perte est due à une faible performance des cartouches que vous achetez.
+<i>Vous prenez contact avec un nouveau fournisseur et commandez des références "high yield".</i>
+--
+La perte est négligeable. Votre contrat inclue une marge de 30% qui est suffisante pour la compenser.
+<i>Vous décidez de ne rien faire.</i>
+--
+Vous avez décidé d'augmenter le prix par page que paye votre client pour réduire vos pertes. En fait vous passez le problème vers le client sans n'avoir même pas essayé de le maitriser en minimisant le risque d'installer une cartouche trop en amont. Votre décision aura un impact positif limité à court terme sur la marge du contrat.
+--
+Vous avez compris que vos pertes sont la conséquence d'une livraison des cartouches trop en amont. Donc vous établissez le seuil des alertes de consommables en fonction de "jours que restent". Il y a plusieurs conséquences: vous réduisez, même éliminez, le gaspillage, et en même temps vous augmentez la performance de chaque cartouche. Votre décision a un effet positif sur la marge des contrats. C'est aussi une bonne décision du point de vue de l'empreinte carbone.
+--
+Vous avez pensé à éliminer les pertes en utilisant des cartouches avec un cout à la page plus compétitif. Ceci n'est pas nécessairement une mauvaise solution sauf pour le fait que vous n'avez pas maitrisez le problème. Vous allez encore le rencontrer avec ces nouvelles références. Entre-temps, votre équipe aura à adapter tous les systèmes pour commencer à commander les nouvelles références, ce qui va aussi impacter sur la gestion de votre entrepôt. Votre décision n'est sans doute pas bonne pour réduire l'empreinte carbone de votre activité.
+--
+Vous avez décidé d'absorber les pertes occasionnées par la pauvre performance de vos machines avec la marge prévue dans le contrat. Ceci se traduit en une marge finale plus faible, même négative.

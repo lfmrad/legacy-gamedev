@@ -1,0 +1,21 @@
+﻿This on-line report shows profit and actual coverage per device for monochrome and color pages. The expected coverage is 5% in monochrome and 20% in color. Take a decision.
+--
+The loss is caused by the customers printing with a high coverage.
+<i>You activate the clause in the contract that lets you increase the price per page.</i>
+--
+Loss and high coverage are both connected. But you just remembered that the replacement of cartridges is performed in a poor manner and the users are wasting a significant amount of toner.
+<i>You prioritize fixing the cartridge installation issue.</i>
+--
+Loss and high coverage are independent one to the other. The loss is due to a lack of performance of the cartridges you buy.
+<i>You contact a new supplier and order new SKUs with higher yield.</i>
+--
+The loss is insignificant. Your pricing includes a 30% margin which is enough to compensate it.
+<i>You do nothing.</i>
+--
+When you saw that the contract was not profitable, you decided to use the clause in the contract that entitles you to increase the cost per page. You are indeed passing the problem on to the customer, while there are still other ways to solve it or at least minimize it by simply reducing the risk of the customers installing the cartridges too early. Your decision will have a short term limited positive impact on your margin.
+--
+When you saw that the contract was not profitable, you decided to reduce the risk of the customers installing the cartridges too early: you did it by reducing the number of days that the cartridges are sent in advance. As a consequence, you eliminate all possibilities of waste in printint. A collateral benefit is that you reduce shipments and increase the performance of every single cartridge. Your decision has a positive impact on your margin. It is also a good decision to reduce environmental footprint.
+--
+When you saw that the contract was not profitable, you decided to start acquiring new SKUs with a higher yield. Not only you did not address what causes the problem; you were indeed stressing your organization to have all SKUs replaced. Your decision may reduce your cost per page. But this will take long time to show up in margins. Meanwhile, you’ll receive calls from customers and generate a big nightmare in the warehouse. Of course, the waste of toner will persist. Your decision is not environmental friendly.
+--
+When you saw that the contract was not profitable, you decided that you can simply compensate the unexpected cost using the margin you calculated in your contract. As a consequence, your actual margin will diminish and will even be negative.

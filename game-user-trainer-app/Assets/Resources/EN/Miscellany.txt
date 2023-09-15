@@ -1,0 +1,71 @@
+﻿Challenge
+--
+I M A G E
+--
+HIDE IMG
+--
+M E N U
+--
+E X I T
+--
+Next Challenge
+--
+Score
+--
+Get Feedback
+--
+S K I P
+--
+Next Page
+--
+Feedback
+--
+I n t r o d u c t i o n
+--
+Nubeprint
+--
+Start Challenges
+--
+Points for Financial Efficacy
+--
+Bonus for Good Management
+--
+Carbon Footprint
+--
+increased
+--
+decreased
+--
+did not change
+--
+by
+--
+RESTART
+--
+Final Score
+--
+Your final score is
+--
+out of
+--
+Total points for Financial Efficacy:
+--
+Total bonus for Good Management:
+--
+Total Carbon Footprint effect:
+--
+Last Score:
+--
+Best Score:
+--
+See Score Again
+--
+This choice changed your:
+--
+This choice did not change your points
+--
+Nubeprint Productions
+--
+presents
+--
+MPS: The Challenge

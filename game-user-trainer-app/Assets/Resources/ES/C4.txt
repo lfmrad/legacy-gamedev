@@ -1,0 +1,23 @@
+﻿Vd. mantiene algunos cartuchos de repuesto en casa de su cliente. El informe on-line muestra el desperdicio cuando son sustituídos.
+Tome una decisión.
+--
+Sus clientes utilizan los cartuchos de repuesto sin ningún control.
+<i>Decide eliminar el stock en casa de su cliente.</i>
+--
+Sus clientes utilizan los cartuchos de repuesto sin ningún control.
+<i>Establece conjuntamente con su cliente un proceso manual para evitar la utilización incorrecta de estos cartuchos.</i>
+--
+Sus clientes utilizan los cartuchos de repuesto sin ningún control.
+<i>No le importa ya que el stock lo ha pagado su cliente.</i>
+--
+Sus clientes utilizan los cartuchos de repuesto sin ningún control.
+Se percada de las múltiples consecuencias: roturas de stock, un ROI negativo...
+<i>Implementa controles automáticos que garanticen el uso correcto de los cartuchos de repuesto.</i>
+--
+Ante el uso descontrolado de los cartuchos de repuesto por parte de su cliente, Vd. ha decidido eliminarlos. En la mayoría de los clientes no es necesario mantener un stock local. Sin embargo puede ser útil para reducir los costes de envío, o hacer frente a fuertes consumos imprevistos. Su decisión tiene un impacto positivo a corto plazo sobre el margen, pero existe una solución mejor.
+--
+Ante el uso descontrolado de los cartuchos de repuesto por parte de su cliente, Vd. ha decidido establecer un control manual. Esta medida es poco realista a menos que haya alguien de su organización en cada cliente. Su decisión tiene un impacto positivo a corto plazo sobre el margen, pero existe una solución mejor.
+--
+Ante el uso descontrolado de los cartuchos de repuesto por parte de su cliente, Vd. no siente la necesidad de hacer nada pues los ha costeado el cliente. Pero pronto su cliente se habrá agotado los cartuchos de repuesto y le pedirá explicaciones. Su decisión no tiene impacto en su margen. Por supuesto, ignorar el problema no muestra una actitud respetuosa con el medio ambiente.
+--
+Se ha dado cuenta de que mantener un stock de cartuchos de repuesto en casa del cliente es arriesgado, aunque a veces es necesario. Por lo tanto se debe controlar. Su sistema Nubeprint cuenta con el módulo de Gestión Automática del Stock Local. Ha decidido ponerlo en marcha. Su decisión tiene un impacto positivo en los márgenes de su negocio a corto plazo. También tiene un impacto medioambiental muy positivo en términos de reducción de CO2.

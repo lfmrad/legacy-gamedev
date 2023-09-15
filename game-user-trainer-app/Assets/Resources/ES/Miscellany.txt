@@ -1,0 +1,71 @@
+﻿Desafío
+--
+I M A G E N
+--
+OCULTAR IMAGEN
+--
+M E N Ú
+--
+SALIR
+--
+Siguiente Desafío
+--
+Puntos
+--
+Ver Evaluación
+--
+SALTAR
+--
+Página Siguiente
+--
+Feedback
+--
+I n t r o d u c c i ó n
+--
+Nubeprint
+--
+Empezar Desafíos
+--
+Eficacia Financiera
+--
+Bonus por Buena Gestión
+--
+Huella Medioambiental
+--
+aumenta
+--
+disminuye
+--
+no cambia
+--
+ 
+--
+REINICIAR
+--
+Puntuación Final
+--
+Su puntuación final es
+--
+de
+--
+Puntuación total por Eficacia Financiera:
+--
+Bonus total por Buena Gestión:
+--
+Huella Medioambiental total:
+--
+Última PA:
+--
+Mejor PF:
+--
+Ver Puntuación
+--
+Esta elección cambió su:
+--
+Esta elección no cambió sus puntos
+--
+Nubeprint
+--
+presenta
+--
+MPS: El Desafío

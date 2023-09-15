@@ -1,0 +1,21 @@
+﻿El informe on-line muestra el rendimiento obtenido y la cobertura real por dispositivo. La cobertura esperada es de 5% en monocromo y 20% en color. Tome una decisión.
+--
+La pérdida o rendimiento negativo se debe a clientes que imprimen con una cobertura alta.
+<i>Activa la cláusula del contrato que le permite repercutirlo en el precio por página.</i>
+--
+La pérdida y la alta cobertura están relacionadas. Pero Vd. no olvida que sus clientes están desperdiciando tóner al sustituir los cartuchos antes de tiempo.
+<i>Decide asignar prioridad a solucionar el problema del desperdicio de tóner.</i>
+--
+La pérdida y la alta cobertura no están relacionados. La pérdida se debe a la falta de rendimiento de los cartuchos que compra.
+<i>Pide oferta a un nuevo proveedor para cartuchos con mayor durabilidad.</i>
+--
+La pérdida es insignificante. Sus contratos tienen un margen suficiente para compensarla.
+<i>No hace nada.</i>
+--
+Al ver la rentabilidad negativa que reportaba cada equipo, ha decidido usar la cláusula del contrato que le faculta para aumentar el coste por página. Ha decidido pasarle el problema al cliente. Hay sin embargo otras soluciones a explorar antes que ésta: controlar la fecha del envío del cartucho. Su decisión tendrá un impacto positivo en el margen, pero habrá perdido competitividad frente a la competencia.
+--
+Al ver la rentabilidad negativa que reportaba cada equipo, ha decidido abordar el problema reduciendo el desperdicio que se produce cuando los clientes instalan los cartuchos demasiado pronto; lo consigue disminuyendo y controlando la antelación con la que envía los cartuchos. Como consecuencia, reducirá los envíos e incrementará el rendimiento de cada uno de los cartuchos. Su decisión tiene un impacto positivo en su margen. También es una buena decisión para reducir la huella de carbono.
+--
+Al ver la rentabilidad negativa que reportaba cada equipo, ha decidido abordar el problema cambiando el tipo de cartucho que envía por otros con mayor durabilidad. Su decisión no ataja el problema. Por el contrario genera una gran carga de trabajo en el almacén, y en compras. A largo plazo podrían manifestarse mejoría en los márgenes, pero el desperdicio de tóner seguirá persistiendo. Su decisión no es respetuosa del medio ambiente.
+--
+Al ver la rentabilidad negativa que reportaba cada equipo, ha pensado que  dado que su margen por contrato es grande, puede absorber perfectamente las pérdidas de gestión. Como resultado, su margen real por contrato será muy inferior al esperado, o incluso negativo. 

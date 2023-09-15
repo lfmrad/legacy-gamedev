@@ -1,0 +1,22 @@
+﻿This on-line report shows the level of each cartridge when replaced. It also shows the date of shipment and replacement.
+Take a decision.
+--
+You don’t care that your customer is throwing away your money: your margin is very healthy.
+<i>You do nothing.</i>
+--
+The % shown is between your expectations.
+<i>You do nothing.</i>
+--
+You make quick numbers: when customer replaces at 10%, you lose 1/3 of your 30% margin in that printer.
+<i>You set up all printer alerts to use “Days remaining” threshold.</i>
+--
+You make quick numbers:  when customer replaces at 10%, you lose 1/3 of your 30% margin in that printer.
+<i>You organize a massive call activity to educate each customer to install the cartridge only when it is empty, never before.</i>
+--
+The margin that you calculate in your contract is just the desired margin. This margin will only happen if the amount of pages the customer prints with each cartridge is exactly what you considered for your contract. In real life, this never happens: you duplicate shipments, the customer installs when the level is at 20%... During the contract management process, you must ensure that each cartridge prints at least the desired number of pages. Your decision will have a negative impact on your margin.
+--
+The margin that you calculate in your contract is just the desired margin. This margin will only happen if the amount of pages the customer prints with each cartridge is exactly what you considered for your contract. In real life, this never happens: you duplicate shipments, the customer installs when the level is at 20%... During the contract management process, you must ensure that each cartridge prints at least the desired number of pages. The control of wasted toner is the quickest way to increase your margins. Your decision will have a negative impact on your margin.
+--
+You have noticed that your customers are replacing the cartridge too early. So the easiest and quickest way to reduce this is by shipping at the right moment of time: the closest to the moment in which the cartridge is empty. So you program your Nubeprint system to trigger the shipment notifications based on “days remaining”, instead of “% remaining”. Your decision has a short term positive impact on your margin.
+--
+You have noticed that your customers are replacing the cartridge too early. So you think the best way to stop this behavior is by educating them. This is a huge task to which you dedicate all resources during a limited period of time. Unfortunately, after 3 to 4 weeks the user would forget. There is a better way to automatically reduce the potential waste: by shipping the closest to the moment in which the cartridge is empty. Your decision will have a limited positive impact on your margin.

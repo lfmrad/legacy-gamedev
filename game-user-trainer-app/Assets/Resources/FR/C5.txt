@@ -1,0 +1,22 @@
+﻿Le rapport en ligne montre les cartouches livrés mais pas encore installés. 
+"Jours Restants" montre le nombre de jours avant que la cartouche soit épuisée. Décidez.
+--
+Le nombre de "Jours Restants" est un chiffre raisonnable
+<i>Vous félicitez vos employés.</i>
+--
+Le moindre est le chiffre de "Jours Restants", le mieux est pour votre business.
+<i>Vous définissez dans le système un seuil d'alerte en utilisant le paramètre "jours restants".</i>
+--
+Le moindre est le chiffre de "Jours Restants", le mieux est pour votre business.
+<i>Vous définissez un seuil d'alerte en utilisant le paramètre "% de niveau" inférieur à 10.</i>
+--
+Dans quelques cas le % de niveau est très bas, et ça vous inquiète que l'imprimante s'arrête.
+<i>Vous augmentez le niveau de % 5 points.</i>
+--
+Ça ne vous inquiète pas de livrer les cartouches beaucoup en avant. Sachez que la probabilité que la cartouche soit installée trop tôt (avant dont qu'elle ne soit pas vide) ou qu'elle se perde est multipliée par 2 chaque semaine d'avance sur les 15 jours. Votre décision a un effet négatif sur la marge.
+--
+Vous avez décidé de redresser le problème du gaspillage lors de l'installation d'une cartouche trop en avant en ajustant la date de livraison aussi près possible que l'épuisement de la cartouche. Ceci se fait en utilisant un seuil d'alerte en fonction des "Jours que restent" et non pas du "% que reste". Cette décision réduit le gaspillage si le client installe trop tôt. La possibilité que la cartouche se perde est presque éliminée. Vous allez bientôt percevoir une réduction d'appels téléphoniques, et un effet positif sur la marge des contrats.
+--
+Vous avez décidé de redresser le problème du gaspillage lors de l'installation d'une cartouche trop en avant en réduisant le seuil de "% de niveau qui reste". Étant donné que chaque cartouche a un comportement différent dans chaque imprimante, si vous avez 2.000 machines vous auriez à calculer le % adéquat pour au moins 8.000 types de cartouches différentes! En plus, le comportement change pendant la vie du contrat, ce qui se traduit que vous auriez à refaire ces calculs et ajuster les seuils au moins 2 fois par un. Ceci n'est pas vraisemblable avec une équipe de 5 personnes. Votre décision a un effet très limité sur la marge.
+--
+Vous avez décidé de ne pas éviter une livraison trop en amont. En fait votre décision est d'avancer encore plus la livraison. Dorénavant vous verrez un plus grand % de gaspillage, et le nombre d'appels téléphoniques pour réclamer une cartouche perdue. Votre décision a un impact négatif sur votre marge, et va stresser votre back-office.

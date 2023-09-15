@@ -1,0 +1,4 @@
+﻿The filter applied reduces the number of models to 5. These are those that print the most.
+You decide to focus your attention on measuring the performance of these device models.
+--
+Continue

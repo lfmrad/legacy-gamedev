@@ -1,0 +1,4 @@
+﻿En filtrant par volume, le nombre de modèles est réduit à 5, étant ceux qu'impriment le plus.
+Vous décidez de focaliser vos ressources sur la performance de ces modèles.
+--
+Continuer

@@ -1,0 +1,22 @@
+﻿Le rapport en ligne montre la distribution des modèles utilisés et leur nombre. Vos ressources sont limitées.
+Décidez la meilleure stratégie pour analyser votre parc d'imprimantes.
+--
+Le Modèle HP Officejet Pro X576 est le modèle clé.
+<i>Vous dédiez vos ressources à analyser la performance des contrats ayant ce modèle (volume, profit, performance de la cartouche...).</i>
+--
+Le Modèle HP Officejet Pro X576 est le plus populaire. Mais vous voulez vérifier si ce modèle est aussi celui qui imprime le plus.
+<i>Vous filtrez votre rapport en ligne en fonction du volume de pages imprimées.</i>
+--
+Vous avez seulement 2000 imprimantes et copieuses.
+<i>Vous décidez de faire l'analyse sur tout le parc dès le début.</i>
+--
+Ce graphique n'est pas représentatif pour vous.
+<i>Vous décidez de faire l'analyse du parc en fonction de la taille de chaque client.</i>
+--
+Votre temps et ressources sont limités. Vous avez identifié le modèle le plus populaire (celui qui a le plus grand nombre d'unités dans votre parc). Mais puisque vous facturez des pages, le modèle le plus populaire n'est pas nécessairement le modèle clé. Pour atteindre votre priorité de bénéfice du business, vous devez identifies les modèles clés et vous rassurer d'atteindre le meilleur cout pour chaque page imprimée. Votre décision n'a pas d'impact court terme sur votre marge, mais peut-être oui à moyen terme.
+--
+Votre temps et ressources sont limités. Donc vous devez établir des priorités. Vous gérez 72 modèles différents. 20% impriment 80% du volume de pages que vous facturez. Votre décision est de diriger l'effort initial sur ce 20% de modèles pour les rendre profitable. Cette décision ne rapporte pas par elle-même un impact sur la marge, mais c'est une excellente décision stratégique.
+--
+Votre temps et ressources sont limités. Il est recommandable d'avoir des priorités. Mais vous avez décidé d'inclure dans votre analyse initiale du parc les 2.000 machines de 72 modèles différents. Vous vous rendrez bientôt compte de l'énorme nombre de scénarios qui peuvent impacter la marge de votre business. Ça va vous prendre des mois complets pour  éclaircir la situation. Et malheureusement, le résultat de vos actions prendra aussi des mois à se montrer. Ce sera donc peut-être trop tard pour vous: votre PDG a défini une échéance pour montrer les résultats de votre gestion. Votre décision n'a aucun impact court terme sur la marge. Mais stratégiquement n'est pas la meilleure.
+--
+Votre temps et ressources sont limités. Il est recommandable d'avoir des priorités. Votre approche est d'analyser les clients au-lieu des modèles. Dans une activité MPS bien structurée, la rentabilité dépend 90% des machines, et 10% du client. Bien que votre organisation commerciale soit organisée par clients, le back-office gère des machines (exception faite de macro-contrats de plus de 1000 imprimantes, ou l'organisation est double: horizontale et verticale). Votre décision n'a aucun impact court terme sur la marge. Mais stratégiquement n'est pas la meilleure.
