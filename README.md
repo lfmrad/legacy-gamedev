@@ -8,7 +8,7 @@ Unity game projects spanning my game development journey.
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=LH0LfCJr0ig)
 
-A multiplatform 2D game advanced demo centered around ability-based mechanics, showcasing a variaty of sophisticated underlying systems such as: custom touch controls, an automated level builder, numerous code-animated graphical effects, etc. 
+A advanced multiplatform 2D game demo centered around ability-based mechanics, showcasing a variaty of sophisticated underlying systems such as: custom touch controls, an automated level builder, numerous code-animated graphical effects, etc. 
 
 Full details in [game-ALTERIT-demo/README](game-ALTERIT-demo/README.md).
 
