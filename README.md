@@ -13,7 +13,7 @@ A multiplatform 2D game advanced demo centered around ability-based mechanics, s
 Full details in [game-ALTERIT-demo/README](game-ALTERIT-demo/README.md).
 
 ## USER TRAINER GAME
-### Developed for printer management software company to train their users
+### Developed for a printer management software company to train their users
 <img src="readme-assets/user-trainer.gif" width="200"/>
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=f5lQgx0ibeI)
