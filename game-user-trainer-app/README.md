@@ -2,6 +2,8 @@
 
 ## Developed for printer management software company to train their users
 
+***Disclaimer: This project was undertaken as a technical exercise in the past. As such, <span style="color:red">the code may not reflect my current level of expertise or best practices.</span>***
+
 <img src="../readme-assets/user-trainer.gif" width="200"/>
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=f5lQgx0ibeI)

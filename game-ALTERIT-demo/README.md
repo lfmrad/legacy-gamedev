@@ -2,6 +2,8 @@
 
 ## A 2D multiplatform ability-based game
 
+***Disclaimer: This project was undertaken as a technical exercise in the past. As such, <span style="color:red">the code may not reflect my current level of expertise or best practices.</span>***
+
 <img src="../readme-assets/alterit.gif" width="200"/>
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=LH0LfCJr0ig)

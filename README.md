@@ -1,6 +1,8 @@
 # legacy-gamedev
 Unity game projects spanning my game development journey.
 
+***Disclaimer: These projects were undertaken in the past. As such, <span style="color:red">the code may not reflect my current level of expertise or best practices.</span>***
+
 ## ALTERIT
 ### A 2D multiplatform ability-based game 
 
