@@ -1,6 +1,6 @@
 # FPS Mechanics Sandbox
 
-***Disclaimer: This project was undertaken as a technical exercise in the past. As such, <span style="color:red">the code may not reflect my current level of expertise or best practices.</span>***
+***Disclaimer: All content in this repository dates back significantly and should not be taken as a representation of my current expertise or adherence to best practices.***
 
 <img src="../readme-assets/fps.gif" width="200"/>
 
