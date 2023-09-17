@@ -8,7 +8,7 @@
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=LH0LfCJr0ig)
 
-An advanced multiplatform 2D game demo centered around ability-based mechanics, showcasing a variety of sophisticated underlying systems. Features include:
+An advanced multiplatform 2D game demo centered around ability-based mechanics, showcasing a variety of sophisticated systems that I built. Some of these include:
 
 * [Custom Touch Controls](Assets/Scripts/PlayerController.cs): Designed for an engaging gameplay experience. While intuitive and responsive, mastering the controls offers a rewarding challenge. Full keyboard support is also available for PC gameplay.
 * [Automatic Level Builder](Assets/Scripts/WallCrafter.cs): This system dynamically constructs levels using a designated set of anchors, allowing for diverse map layouts and supporting a variety of art styles.

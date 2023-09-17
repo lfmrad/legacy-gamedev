@@ -11,7 +11,7 @@ Unity game projects spanning my game development journey.
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=LH0LfCJr0ig)
 
-An advanced multiplatform 2D game demo centered around ability-based mechanics, showcasing a variety of sophisticated underlying systems such as: custom touch controls, an automated level builder, numerous code-animated graphical effects, etc. 
+An advanced multiplatform 2D game demo centered around ability-based mechanics, showcasing a variety of sophisticated systems that I built. Some of these include: custom touch controls, an automated level builder, numerous code-animated graphical effects, etc. 
 
 Full details in [game-ALTERIT-demo/README](game-ALTERIT-demo/README.md).
 
@@ -21,13 +21,15 @@ Full details in [game-ALTERIT-demo/README](game-ALTERIT-demo/README.md).
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=f5lQgx0ibeI)
 
-A game I developed for a printer management software company, designed to train users in a fun, 'Who Wants to Be a Millionaire'-style format. Due to the tight one-week development timeframe, there wasn't an opportunity to delve into traditional Unity animation tools. However, leveraging my abilities at the time, every visual element—from the interactive interface to the dynamic score displays—was animated purely through code. This approach not only met the deadline but also made the project an interesting challenge for myself.
+A game I developed for a printer management software company, designed to train users in an engaging 'Who Wants to Be a Millionaire'-style format. Given a tight two-week development window and my unfamiliarity with traditional Unity animation tools at the time, every visual element, from the interactive interface to every single element that moves, was animated purely through code. This approach not only ensured timely completion but also posed a unique and rewarding challenge for myself.
+
+Full details in [game-user-trainer-demo-app/README](game-user-trainer-demo-app/README.md).
 
 ## [OMICRON](game-OMICRON-prototype)
 ### A 2D platformer based on electromagnetism's physics
 <img src="readme-assets/omicron.gif" width="200"/>
 
-A 2D platformer prototype where players control a ball. The ball's behaviour is a direct physical simulation, with forces calculated using actual electromagnetic field equations. Players can toggle the ball's charge, influencing its attraction or repulsion to platforms. Gamepad controls are supported.
+A 2D platformer prototype that I developed where players control a ball. The ball's behaviour is a direct physical simulation, with forces calculated using actual electromagnetic field equations. Players can toggle the ball's charge, influencing its attraction or repulsion to platforms. Gamepad controls are supported.
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=H2EMbUft0Cw)
 
@@ -45,4 +47,4 @@ A prototype I built to play around with Unity physics and materials. This implem
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=RHgiHEW1tIM)
 
- A prototype I built to delve into first-person shooter dynamics: experimentation with first-person view controls and camera, foundational AI for enemy interactions, and raycasting-based shooting mechanics.
+A prototype I built to explore implementing first-person view shooter dynamics: first-person view controls and camera, foundational AI for enemy interactions, raycasting-based shooting mechanics, etc.

@@ -6,4 +6,4 @@
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=RHgiHEW1tIM)
 
- A prototype I built to delve into first-person shooter dynamics: experimentation with first-person view controls and camera, foundational AI for enemy interactions, and raycasting-based shooting mechanics.
+A prototype I built to explore implementing first-person view shooter dynamics: first-person view controls and camera, foundational AI for enemy interactions, raycasting-based shooting mechanics, etc.
