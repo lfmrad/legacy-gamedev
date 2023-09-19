@@ -21,7 +21,7 @@ Full details in [game-ALTERIT-demo/README](game-ALTERIT-demo/README.md).
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=f5lQgx0ibeI)
 
-A game I developed for a printer management software company, designed to train users in an engaging 'Who Wants to Be a Millionaire'-style format. Given a tight two-week development window and my unfamiliarity with traditional Unity animation tools at the time, every visual element, from the interactive interface to every single element that moves, was animated purely through code. This approach not only ensured timely completion but also posed a unique and rewarding challenge for myself.
+A game I developed for a printer management software company, designed to train users in an engaging 'Who Wants to Be a Millionaire'-style format. Given a tight two-week development window and my unfamiliarity with traditional Unity animation tools at the time, every visual element in the interface was [animated entirely through code](Assets/Scripts/GameController.cs). This approach not only ensured timely completion but also posed a unique and rewarding challenge for myself.
 
 Full details in [game-user-trainer-demo-app/README](game-user-trainer-demo-app/README.md).
 
