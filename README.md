@@ -47,4 +47,4 @@ A prototype I built to play around with Unity physics and materials. This implem
 
 [Full demo on Youtube](https://www.youtube.com/watch?v=RHgiHEW1tIM)
 
-A prototype I built to explore implementing first-person view shooter dynamics: first-person view controls and camera, foundational AI for enemy interactions, raycasting-based shooting mechanics, etc.
+A prototype I built to explore implementing first-person view shooter dynamics: controls and camera, foundational AI for enemy interactions, raycasting-based shooting mechanics, etc.
